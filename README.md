@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Kathy 👋
+### Computational Biology Major | Evolutionary genomics | UT Austin, TX
 
-<!--
-**kitkat110/kitkat110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build tools to explore biological data and uncover patterns in nature.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Python, R
+- **Data Science:** pandas, Numpy, ggplot2, principal component analysis (PCA)
+- **Bioinformatics:** sequence analysis, protein modeling, differential expression analysis (DEA)
+- **Tools:** Linux, Git, Jupyter Notebook
+
+---
+
+## 📌 Featured Projects
+- **[CyanoStruct](https://github.com/kitkat110/cyano-struct):** Structural bioinformatics dashboard for exploring cyanobacterial toxin gene mutations
+- **[Spider Image Processing Pipeline](https://github.com/kitkat110/spider_image_processing):** Python-based image analysis pipeline for classifying spiny orb-weaver spider photos by color
+
+---
+
+## ✉️ Connect With Me
+- **LinkedIn:** www.linkedin.com/in/kathy-nguyen-7a2148395
+- **Email:** kathynguyen011405@gmail.com
