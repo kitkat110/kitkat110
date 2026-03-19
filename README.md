@@ -17,7 +17,7 @@ I build tools to explore biological data, uncover patterns in nature, and transf
 ### **[CyanoStruct](https://github.com/kitkat110/cyano-struct)** 
 A structural bioinformatics dashboard for exploring cyanobacterial toxin gene mutations. Enables visualizing mutation effects on protein structure.
 
-### **[Austin Mapping Insect Biodiversity Pipeline](https://github.com/kitkat110/austin-insect-biodiversity)** 
+### **[Mapping Austin Insect Biodiversity](https://github.com/kitkat110/austin-insect-biodiversity)** 
 Maps insect biodiversity in Austin using iNaturalist data. Identifies spatial hotspots and explores how urban features like parks and water bodies influence species richness.
 
 ### **[Spider Image Processing Pipeline](https://github.com/kitkat110/spider_image_processing)** 
