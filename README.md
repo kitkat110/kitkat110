@@ -1,21 +1,19 @@
 # Hi, I'm Kathy 👋
-#### Computational Biology major | Interested in evolutionary genomics | UT Austin, TX
-
-I build tools to explore biological data, uncover patterns in nature, and transform research questions into actionable insights.
+Computational biology researcher at UT Austin studying how morphological and molecular variation shape adaptation, from urban cyanobacteria to plant evolutionary genomics.
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, R
-- **Data Science:** tidyverse, ggplot2, PCA
-- **Bioinformatics:** sequence analysis, protein modeling, differential expression analysis (DEA)
-- **Tools:** Linux, Git, Jupyter Notebook
+- **Languages:** Python, R, Unix/Bash
+- **Data Science:** ggplot2/matplotlib, Numpy, Pandas
+- **Bioinformatics:** FASTA/FASTQ parsing, Biopython, DESeq2
+- **Tools:** Git, Jupyter Notebook
 
 ---
 
 ## 📌 Featured Projects
-### **[CyanoStruct](https://github.com/kitkat110/cyano-struct)** 
-A structural bioinformatics dashboard for exploring cyanobacterial toxin gene mutations. Enables visualizing mutation effects on protein structure.
+### **[Molecular Constraints on Cyanobacterial Toxin Production](https://github.com/kitkat110/cyano-struct)** 
+Investigated why environmental data alone can't predict toxin presence in urban waterways. Used Shannon entropy, BLOSUM62, and Gaussian Mixture Model clustering to show physicochemical properties (not conservation scores) drive mutation impact in the *mcyA* gene. Built an interactive dashboard to visualize findings.
 
 ### **[Mapping Austin Insect Biodiversity](https://github.com/kitkat110/austin-insect-biodiversity)** 
 Maps insect biodiversity in Austin using iNaturalist data to identify spatial hotspots.
