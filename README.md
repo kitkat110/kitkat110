@@ -15,11 +15,11 @@ Computational biology researcher at UT Austin studying how morphological and mol
 ### **[Molecular Constraints on Cyanobacterial Toxin Production](https://github.com/kitkat110/cyano-struct)** 
 Investigated why environmental data alone can't predict toxin presence in urban waterways. Used Shannon entropy, BLOSUM62, and Gaussian Mixture Model clustering to show physicochemical properties (not conservation scores) drive mutation impact in the *mcyA* gene. Built an interactive dashboard to visualize findings.
 
-### **[Mapping Austin Insect Biodiversity](https://github.com/kitkat110/austin-insect-biodiversity)** 
-Maps insect biodiversity in Austin using iNaturalist data to identify spatial hotspots.
-
 ### **[Spider Image Processing Pipeline](https://github.com/kitkat110/spider_image_processing)** 
 Python-based image analysis pipeline classifying spiny orb-weaver spider photos by spine and abdomen color, automating morphological data extraction.
+
+### **[Toxic Algae Water Quality Analysis](https://github.com/kitkat110/toxic-algae)** 
+Analysis of creek water quality data using PCA, logistic regression, and seasonal analysis to identify environmental predictors of cyanobacteria and cyanotoxin presence.
 
 ---
 
